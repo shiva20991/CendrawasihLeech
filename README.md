@@ -30,6 +30,9 @@ This repo based [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdriv
 <h1 align="center">
   <a href="https://github.com/Manssizz/CendrawasihLeech"><img src="https://raw.githubusercontent.com/Manssizz/CendrawasihLeech/master/rclone.jpg" alt="rClone config"></a>
 </h1>
+<a href="https://heroku.com/deploy?template=https://github.com/shiva20991/CendrawasihLeech">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
 ### Command List
 ```
